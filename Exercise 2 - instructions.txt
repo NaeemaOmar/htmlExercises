@@ -1,7 +1,0 @@
-Task 2
--   Create an html file called tables.html in the documents folder.
--   Set out the basic document template, giving it a title and headings as you see fit
--   Create a table with 3 columns, with column names in bold. These names should be:
-    "Topic", "Name of website" and "URL".
--   Add information to this table with the details of 3 resources that you have found on the web 
-    that will be useful to developers.
